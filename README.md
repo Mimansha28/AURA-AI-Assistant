@@ -18,7 +18,7 @@ AURA is a voice-activated virtual assistant built with Python that responds to v
 
 ## Tech Stack
 
-- *Python *
+- Python 
 - speech_recognition – for capturing voice input
 - pyttsx3 – for text-to-speech output
 - requests – for API integration
@@ -36,7 +36,7 @@ AURA/
 ├── requirements.txt # Python dependencies
 
 ---
-##Example Commands
+## Example Commands
 -"Aura" → (Activates assistant)
 
 -"Open Google"
